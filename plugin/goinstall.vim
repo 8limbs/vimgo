@@ -13,9 +13,6 @@ endif
 
 let s:packages = [
             \ "github.com/nsf/gocode", 
-            \ "github.com/bradfitz/goimports", 
-            \ "github.com/dgryski/vim-godef", 
-            \ "code.google.com/p/go.tools/cmd/oracle", 
             \ "github.com/golang/lint/golint", 
             \ "github.com/kisielk/errcheck",
             \ "github.com/jstemmer/gotags",
